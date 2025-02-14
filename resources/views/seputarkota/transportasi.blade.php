@@ -612,7 +612,7 @@
                 <td><p>Balikpapan-Surabaya</p>
                    <p>Balikpapan-Makassar</p>
                    <p>Balikpapan-Parepare</p>
-                   <p>Balikpapan-Batulicin/td></p>
+                   <p>Balikpapan-Batulicin</p>
                 </td>
             </tr>
         </tbody>
